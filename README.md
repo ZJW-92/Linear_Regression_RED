@@ -1,5 +1,5 @@
 # Case study: RED-小红书
-
+![red-view](img/red.png)
 ## Background 
 
 RED(小红书), established in June 2013, is an online shopping and social networking platform in Mainland China. 
