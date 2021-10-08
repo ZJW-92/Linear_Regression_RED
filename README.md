@@ -19,3 +19,13 @@ Based on user data and consumer behavior data
 * Forecast changes of user's consumption amount
 * Find the factors that have a greater impact on user consumption
 
+## Data analysis 
+### Index explanation 
+* purchasing_amount: the amount user purchases
+* gender: male->1, female->0, U= unknown 
+* age 
+* 3rd_party_store: user puchases from the third party merchant
+* comulative_purchase_amount: comulative amount user purchases
+* days_since_last_order
+* last_month_engage: activity user engages in the past month
+* lifecycle: A: registered within 6 month, B: registered within one year, C: registered within two years
