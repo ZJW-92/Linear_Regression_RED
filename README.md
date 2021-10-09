@@ -74,5 +74,14 @@ Conclusion:
 - 2. The average of purchasing amount among users that have engaged during last month is larger. The purchasing amount reaches 569.7 while the amount of users that do not engaged is 369.8.
 - 3. Most of total purchasing amount is contributed by the users that do not engaged in the past month. 
 
+Relationship between third party stores and purchasing amount:
+Conclusion: 
+- 1. Users who have never purchased in a third-party app are the most, followed by those who have purchased 10 times in a third-party stores. 
+- 2. The average sales of customers who have never made a purchase in a third-party stores is the highest; the average sales of customers who have made 1-5 purchases in a third-party stores similar; the average of customers who have made 6-10 purchases in a third-party stores Sales are similar, but its purchasing amount is greater than the average sales of 1-5 purchases on third-party apps. 
+- 3. Most of the total sales are contributed by users who have never purchased in a third-party stores, followed by users who have purchased 10 times in a third-party store. Users who have made 1-5 purchases in a third-party app, with the least contribution Customers who made 6-10 purchases in a third-party stores.
+
+## Visualization
+
+
 
 
