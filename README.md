@@ -52,10 +52,27 @@ Based on user data and consumer behavior data
 
 #### Conclusion : 
 
+Relationship between different lifecycles and purchasing amount: 
 - 1. Lifecycle C, in which the users registered within 2 years are the most. 
 
 - 2. Lifecycle A, in which the users registered within 6 months, has most average purchasing amount, reachs 433.8, second one is lifecylce C, which is registered within 2 years, reaches 396.8, the least is lifecycle B, which is registered within 1 year, reaches 381.3.
 - 3. Lifecycle C has most puchasing amount in total, second one is lifecylce B, the last one is lifecycle A. 
 
 - 4. Most of total purchasing amount is created by lifecycle C.
+
+Relationship between gender and purchasing amount: 
+ 
+- 1. There are more male users than female users.
+- 2. Purchasing amount by male users are little higher than female users. 
+
+- 3. Male users contribute most part of total puchasing amount. 
+
+Relationship between users' last month puchasing and purchasing amount:
+
+Conclusion: 
+- 1. Most users do not make orders during the last month.
+- 2. The average of purchasing amount among users that have engaged during last month is larger. The purchasing amount reaches 569.7 while the amount of users that do not engaged is 369.8.
+- 3. Most of total purchasing amount is contributed by the users that do not engaged in the past month. 
+
+
 
