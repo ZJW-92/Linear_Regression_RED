@@ -90,3 +90,24 @@ Conclusion:
 - There is no clear relations between puchasing amount and other variables. 
 ## 4 Regression 
 ### 4.1 Evaluate model
+
+### 4.2 Model score
+
+* Root Mean Square Error(RMSE) = 945.1327326407894. It amplifies the margin of error, and the penalty for the error is heavier.
+* Mean Absolute Error(MAE) = 352.9825670606424. It better reflects the actual situation of the predicted value error.
+Conclusion: 
+- R-squared is 0.03, Prob is 0
+- This regression has no significant meaning. 
+
+
+## 4.3 Model refinement 
+Add one more variable lifecycle_C
+* Root Mean Square Error(RMSE) = 945.0664751321252
+* Mean Absolute Error(MAE) = 352.6020358581729
+
+
+## 4.4  Prediction analysis of sales model : 
+prediction sales amount = 186.8375 + 0.0684 * comulative_purchase_amount + 62.6521 * last_month_engage_1.0 + 8.9856  * days_since_last_order - 31.0249 * lifecycle_C
+
+
+
