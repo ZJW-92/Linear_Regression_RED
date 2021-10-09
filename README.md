@@ -100,14 +100,21 @@ Conclusion:
 - This regression has no significant meaning. 
 
 
-## 4.3 Model refinement 
+### 4.3 Model refinement 
 Add one more variable lifecycle_C
 * Root Mean Square Error(RMSE) = 945.0664751321252
 * Mean Absolute Error(MAE) = 352.6020358581729
 
 
-## 4.4  Prediction analysis of sales model : 
+### 4.4  Prediction analysis of sales model : 
 prediction sales amount = 186.8375 + 0.0684 * comulative_purchase_amount + 62.6521 * last_month_engage_1.0 + 8.9856  * days_since_last_order - 31.0249 * lifecycle_C
 
 
+## 5 Understanding of the sales model
+- For every 1 increase in the user’s accumulated purchase amount, a sales return of 0.0684 can be achieved.
+- Users who have engaged in the last 30 days have increased their sales by 62.6521 compared to users who do not engage in activities.
+- Every time the number of days since the user’s last order is increased by 1 day, a sales return of RMB 8.9856 can be achieved. 
+- Users who registered two years ago compared to registering one year ago and 6 months ago, the sales decreased by 31.0249. 
+
+Note: The linear regression effect of this data is not good and it is only used for practicing the linear regression. 
 
