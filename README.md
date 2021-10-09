@@ -36,10 +36,10 @@ Based on user data and consumer behavior data
 #### Conclusion: 
 
 * According to the distplot of age and red['age'].describe(), we can see
-- 1. the user age is distributed between 18-99 years old, 
-- 2. the average user age is 60.39 years old, 
-- 3. the median user age is 60.39 years old, 
-- 4. the vast majority of users are between 58 - 63 years old.
+- 1. The user age is distributed between 18-99 years old, 
+- 2. The average user age is 60.39 years old, 
+- 3. The median user age is 60.39 years old, 
+- 4. The vast majority of users are between 58 - 63 years old.
 
 * From the days since last order, we can see 
 - 1. The number of days since the last time a user placed an order is distributed between 0 and 23 days. 
@@ -50,5 +50,12 @@ Based on user data and consumer behavior data
 
 ### 2.2 categorical variables
 
+#### Conclusion : 
 
+- 1. Lifecycle C, in which the users registered within 2 years are the most. 
+
+- 2. Lifecycle A, in which the users registered within 6 months, has most average purchasing amount, reachs 433.8, second one is lifecylce C, which is registered within 2 years, reaches 396.8, the least is lifecycle B, which is registered within 1 year, reaches 381.3.
+- 3. Lifecycle C has most puchasing amount in total, second one is lifecylce B, the last one is lifecycle A. 
+
+- 4. Most of total purchasing amount is created by lifecycle C.
 
