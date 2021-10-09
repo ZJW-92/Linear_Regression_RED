@@ -80,8 +80,13 @@ Conclusion:
 - 2. The average sales of customers who have never made a purchase in a third-party stores is the highest; the average sales of customers who have made 1-5 purchases in a third-party stores similar; the average of customers who have made 6-10 purchases in a third-party stores Sales are similar, but its purchasing amount is greater than the average sales of 1-5 purchases on third-party apps. 
 - 3. Most of the total sales are contributed by users who have never purchased in a third-party stores, followed by users who have purchased 10 times in a third-party store. Users who have made 1-5 purchases in a third-party app, with the least contribution Customers who made 6-10 purchases in a third-party stores.
 
-## Visualization
+## 3 Visualization
 
+![heatmap-view](img/heatmap.png)
 
-
-
+Conclusion: 
+- There exist strong pairwise positive relations between lifecycle C and days since last order and third party stores.
+- There exist strong pairwise positive relations between gender_1.0 and last month engage 0.
+- There is no clear relations between puchasing amount and other variables. 
+## 4 Regression 
+### 4.1 Evaluate model
